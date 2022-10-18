@@ -32,7 +32,7 @@ IS_SUCCESSFUL—Was the money used effectively
 
 **The purpose of this analysis is using determine which applicants will be successful if funded by Alphabet Soup by using machine learning to create a binary classification.**
 
-## Results: Using bulleted lists and images to support your answers, address the following questions.
+## Results: 
 
 ### Data Preprocessing
 
